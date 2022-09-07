@@ -1,0 +1,2 @@
+localhost:8080/greeting
+localhost:8080/actuator/configprops
