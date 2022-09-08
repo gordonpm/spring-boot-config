@@ -1,0 +1,11 @@
+my:
+  greeting: Hello
+  list:
+    values: One,Two,Three
+
+db:
+  connection: "jdbc:mysql://localhost"
+  host: 127.0.0.1
+  port: 1234
+
+management.endpoints.web.exposure.include: "*"
